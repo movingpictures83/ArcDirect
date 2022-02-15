@@ -1,0 +1,2 @@
+Prefix plugins/ArcDirect/example/
+Plugin ArcDirect inputfile input.rds outputfile directed.csv
